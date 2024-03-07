@@ -17,7 +17,7 @@ En este repositorio, exploraremos juntos los fundamentos de Python y cómo aplic
 ### Visual Studio
 
 
-![VC](hhttps://repository-images.githubusercontent.com/657248114/d3c7b91a-b285-4d1e-8429-5de1acc5f61e)
+![VS]("C:\Users\alede\Desktop\bootcamp\REPOSITORIOS\PYTHON_THE_BASIC\vs.png")
 
 
 Visual Studio es un entorno de desarrollo integrado (IDE, por sus siglas en inglés) desarrollado por Microsoft. Es una herramienta poderosa utilizada por desarrolladores para escribir, depurar y compilar su código.
@@ -88,7 +88,7 @@ Como científicos de datos, es esencial comprender los tipos de datos fundamenta
 
 
 
-##### Referencias
+#### Referencias
 
 Hetland, M. L. (2014). Python Algorithms: Mastering Basic Algorithms in the Python Language (2nd ed.). Apress.
 
