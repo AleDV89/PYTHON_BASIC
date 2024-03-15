@@ -19,7 +19,7 @@ En este repositorio, exploraremos juntos los fundamentos de Python y cómo aplic
 ### Visual Studio 💻
 
 
-![VS](https://github.com/AleDV89/PYTHON_BASIC/blob/main/visual.s)
+![VS](https://github.com/AleDV89/PYTHON_BASIC/blob/main/visual%20logo.png)
 
 
 Visual Studio es un entorno de desarrollo integrado (IDE, por sus siglas en inglés) desarrollado por Microsoft. Es una herramienta poderosa utilizada por desarrolladores para escribir, depurar y compilar su código.
