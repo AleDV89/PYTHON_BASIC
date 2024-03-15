@@ -16,10 +16,10 @@ Turing sentó las bases teóricas de la computación, pero las máquinas de su �
 En este repositorio, exploraremos juntos los fundamentos de Python y cómo aplicarlos en la resolución de problemas del mundo real. Sigamos este emocionante viaje, aprovechando las lecciones del pasado y abrazando las oportunidades que la tecnología moderna nos ofrece.
 
 
-### Visual Studio
+### Visual Studio 💻
 
 
-![VS](https://github.com/AleDV89/PYTHON_BASIC/blob/main/visual.png)
+![VS](https://github.com/AleDV89/PYTHON_BASIC/blob/main/visual.s)
 
 
 Visual Studio es un entorno de desarrollo integrado (IDE, por sus siglas en inglés) desarrollado por Microsoft. Es una herramienta poderosa utilizada por desarrolladores para escribir, depurar y compilar su código.
@@ -28,69 +28,72 @@ Visual Studio es un entorno de desarrollo integrado (IDE, por sus siglas en ingl
 
 ##### Tipos de Datos:
 
-Enteros (int): Representan números enteros. Ejemplos: 5, -10, 1000.
+* Enteros (int): Representan números enteros. Ejemplos: 5, -10, 1000.
 
 
-Números de Punto Flotante (float): Representan números decimales o de punto flotante. Ejemplos: 3.14, -0.01, 2.0.
+* Números de Punto Flotante (float): Representan números decimales o de punto flotante. Ejemplos: 3.14, -0.01, 2.0.
 
-Cadenas de Texto (str): Representan secuencias de caracteres. Ejemplos: 'Hola, mundo', "Python es genial".
+* Cadenas de Texto (str): Representan secuencias de caracteres. Ejemplos: 'Hola, mundo', "Python es genial".
 
-Booleanos (bool): Representan valores de verdad, ya sea True o False. Se utilizan en expresiones lógicas y de control de flujo.
+* Booleanos (bool): Representan valores de verdad, ya sea True o False. Se utilizan en expresiones lógicas y de control de flujo.
 
-Listas (list): Son secuencias ordenadas y modificables de elementos. Pueden contener cualquier tipo de dato, incluso otras listas. Ejemplo: [1, 2, 'a', [4, 5]].
+* Listas (list): Son secuencias ordenadas y modificables de elementos. Pueden contener cualquier tipo de dato, incluso otras listas. Ejemplo: [1, 2, 'a', [4, 5]].
 
-Tuplas (tuple): Son secuencias ordenadas e inmutables de elementos. Se definen utilizando paréntesis. Ejemplo: (1, 2, 'b').
+* Tuplas (tuple): Son secuencias ordenadas e inmutables de elementos. Se definen utilizando paréntesis. Ejemplo: (1, 2, 'b').
 
-Conjuntos (set): Representan colecciones no ordenadas y sin duplicados. Se definen utilizando llaves. Ejemplo: {1, 2, 3}.
+* Conjuntos (set): Representan colecciones no ordenadas y sin duplicados. Se definen utilizando llaves. Ejemplo: {1, 2, 3}.
 
-Diccionarios (dict): Asocian claves con valores y son útiles para representar mapeos. Se definen utilizando llaves y dos puntos. Ejemplo: {'nombre': 'Juan', 'edad': 25}.
+* Diccionarios (dict): Asocian claves con valores y son útiles para representar mapeos. Se definen utilizando llaves y dos puntos. Ejemplo: {'nombre': 'Juan', 'edad': 25}.
 
-##### y que podemos hacer en Python? 
+### y que podemos hacer en Python? 
 
 Abre tu archivo .ipynb en VS y prueba estos ejemplos: 
 
-
-Ejemplo 1: 
+* Ejemplo 1: 
 
 Calcular 7 elevado a 4
+```python
 resultado= 7**4 print(resultado)
-
-Ejemplo 2: 
+```
+ * Ejemplo 2: 
 
 Usar Split para dividir cada elemento
 Divida el siguiente string en una lista
 
+```python
 s = 'Hi there, Sam!' s.split()
+```
+* Ejemplo 3:
 
-Ejemplo 3:
+Usar `.format()`
 
-Usar .format()
 "Con las variables planet y diamater se aplica . format completar los espacios" planet = "Earth" diameter = 12742 
+```python
 print('The diameter of: {} is {} kilometers'.format(planet,diameter))
+```
 
-Ejemplo 4:
+* Ejemplo 4:
 
 Obtener solo hello de la siguiente concatenada
-"El valor hello está en el 0" lst = [1,2,[3,4],[5,[100,200,['hello']],23,11],1,7] valor_hello = "{}".format(lst[3][1][2][0]) 
-print(valor_hello)
 
+"El valor hello está en el 0" 
+```python
+lst = [1,2,[3,4],[5,[100,200,['hello']],23,11],1,7] valor_hello = "{}".format(lst[3][1][2][0]) 
+print(valor_hello)
+```
 
 
 
 Estos tipos de datos básicos son solo el comienzo de las capacidades de Python en el ámbito de la ciencia de datos. Para realizar análisis más avanzados y manipulación de datos, se utilizan bibliotecas especializadas como Pandas, que facilita la manipulación y análisis de datos tabulares, incluyendo la importación de archivos CSV y otros formatos.
 
-Como científicos de datos, es esencial comprender los tipos de datos fundamentales en Python, ya que forman la base para manipular y analizar datos de manera efectiva
+Como científicos de datos, es esencial comprender los tipos de datos fundamentales en Python, ya que forman la base para manipular y analizar datos de manera efectiva.
+
+### Contribuciones: 
+Contribuye para ampliar más!!
 
 
 
-
-
-
-
-
-
-
-#### Referencias
+### Referencias 📝
 
 Hetland, M. L. (2014). Python Algorithms: Mastering Basic Algorithms in the Python Language (2nd ed.). Apress.
 
