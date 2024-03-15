@@ -19,7 +19,7 @@ En este repositorio, exploraremos juntos los fundamentos de Python y cómo aplic
 ### Visual Studio 💻
 
 
-![VS](https://github.com/AleDV89/PYTHON_BASIC/blob/main/visual%20logo.png)
+![VS](https://github.com/AleDV89/PYTHON_BASIC/blob/main/Marketing%20(1).png)
 
 
 Visual Studio es un entorno de desarrollo integrado (IDE, por sus siglas en inglés) desarrollado por Microsoft. Es una herramienta poderosa utilizada por desarrolladores para escribir, depurar y compilar su código.
@@ -57,8 +57,7 @@ resultado= 7**4 print(resultado)
 ```
  * Ejemplo 2: 
 
-Usar Split para dividir cada elemento
-Divida el siguiente string en una lista
+Usar `.Split()` para dividir cada elemento string en una lista
 
 ```python
 s = 'Hi there, Sam!' s.split()
