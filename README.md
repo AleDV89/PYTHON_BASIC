@@ -1,5 +1,7 @@
 ## Aprendiendo Python en la Era Moderna (PYTON SENCILLO Y BÁSICO)
 
+![python](https://github.com/AleDV89/PYTHON_BASIC/blob/main/python.png)
+
 ¡Bienvenidos a este emocionante viaje hacia el mundo de Python! En la actualidad, aprender Python se ha vuelto más accesible que nunca gracias a diversas técnicas y recursos disponibles. A medida que exploramos este fascinante lenguaje de programación, recordemos que estamos parados sobre los hombros de gigantes, aprovechando décadas de investigación y desarrollo tecnológico.
 
 ### La Evolución Tecnológica desde 1930
