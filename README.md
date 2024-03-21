@@ -1,4 +1,4 @@
-## Aprendiendo Python en la Era Moderna (PYTON SENCILLO Y BÁSICO)
+## Aprendiendo Python en la Era Moderna (PYTHON SENCILLO Y BÁSICO)
 
 ![python](https://github.com/AleDV89/PYTHON_BASIC/blob/main/python.png)
 
